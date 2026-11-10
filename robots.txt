@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /demo/
+
+Host: https://viproman01.github.io/nexo-almaty
+Sitemap: https://viproman01.github.io/nexo-almaty/sitemap.xml
